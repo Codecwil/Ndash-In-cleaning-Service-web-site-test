@@ -1,0 +1,23 @@
+
+
+echo "# Demo-Portefolio" >> README.md
+git init
+git add .
+git commit -m "add Demo"
+git branch -M main
+git remote add origin git@github.com:Cwil99/Demo-Portefolio.git
+git push -u origin main
+
+
+
+git remote add origin git@github.com:Cwil99/Ndash-In-cleaning-Service-web-site-test.git
+git branch -M main
+git push -u origin main
+
+
+Ndash-In-cleaning-Service-web-site-test
+
+git remote add origin git@github.com:Cwil99/foliotest.git
+
+
+foliotest
